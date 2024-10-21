@@ -1,2 +1,2 @@
 # obs-test-timer-
-Display a timed message for your live stream; set it up as you wish.
+This is a script that allows you to have a message go live for as long as you want and you can stop it at any time, very useful for streamers!
